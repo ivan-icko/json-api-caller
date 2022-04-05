@@ -1,0 +1,26 @@
+[
+  {
+    "location": {
+      "name": "New York",
+      "country": "United state of America"
+    },
+    "current": {
+      "temperature": 14,
+      "wind_speed": 20,
+      "pressure": 1000,
+      "humidity": 50
+    }
+  },
+  {
+    "location": {
+      "name": "Los Angeles",
+      "country": "United state of America"
+    },
+    "current": {
+      "temperature": 33,
+      "wind_speed": 2,
+      "pressure": 999,
+      "humidity": 30
+    }
+  }
+]

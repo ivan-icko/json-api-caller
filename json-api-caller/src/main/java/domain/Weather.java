@@ -4,8 +4,9 @@ import java.util.Date;
 
 public class Weather {
 
-	private Current current;
 	private Location location;
+	private Current current;
+
 	
 	public Location getLocation() {
 		return location;

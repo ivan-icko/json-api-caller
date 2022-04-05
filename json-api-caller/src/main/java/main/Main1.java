@@ -17,7 +17,7 @@ import domain.Weather;
 
 public class Main1 {
 
-	public static String ACCESS_KEY = "2d802fb72003a1dfee68255dd45b4a5b";
+	public static String ACCESS_KEY = "";
 
 	public static void main(String[] args) {
 
