@@ -1,0 +1,12 @@
+{
+  "location": {
+    "name": "New York",
+    "country": "United states of America"
+  },
+  "current": {
+    "temperature": 22,
+    "wind_speed": 22,
+    "pressure": 1,
+    "humidity": 47
+  }
+}
